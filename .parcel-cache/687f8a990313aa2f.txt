@@ -1,0 +1,11 @@
+10
+26D:\miki\jirengu\dom-2\dist132742484260523554 1
+44D:\miki\jirengu\dom-2\dist\index.67954770.js132742484260493633 0
+25D:\miki\jirengu\dom-2\src132740724232148569 1
+36D:\miki\jirengu\dom-2\src\index.html132742359249037538 0
+48D:\miki\jirengu\dom-2\dist\index.fef1cfaf.js.map132742483624171788 0
+35D:\miki\jirengu\dom-2\src\jquery.js132742484713780492 0
+33D:\miki\jirengu\dom-2\src\main.js132742483623234539 0
+48D:\miki\jirengu\dom-2\dist\index.67954770.js.map132742484260513583 0
+44D:\miki\jirengu\dom-2\dist\index.fef1cfaf.js132742483624151863 0
+37D:\miki\jirengu\dom-2\dist\index.html132742405616624734 0
